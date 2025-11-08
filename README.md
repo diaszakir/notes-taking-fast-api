@@ -1,0 +1,3 @@
+# Notes Project
+
+## Python, FastAPI
